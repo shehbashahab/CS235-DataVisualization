@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Avenir';
+}
+
+h1 {
+    font-size: 25px;
+    padding: 2mm;
+}
+
+svg {
+    padding: 10px 30px;
+}
+
+.bar {
+    fill: rgb(0, 61, 165);
+}
+
+.bar:hover {
+    fill: rgb(255, 199, 044);
+}
+
+.axis--x path {
+    display: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+text,
+.axis text {
+    font-size: 11px;
+}

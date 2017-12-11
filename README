@@ -1,0 +1,8 @@
+Use Integrated Terminal to start HTTP server:
+    python -m SimpleHTTPServer
+
+Open index in browser
+    http://localhost:8000/
+
+
+Note: There is a musical component to the visualization to enhance the user’s emotional connection with the data. Be sure to turn your volume up.
