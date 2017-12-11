@@ -1,10 +1,12 @@
 # Assignment 4 - Data Visualization User Interface for the Web 
-* **Use Integrated Terminal to start HTTP server:** python -m SimpleHTTPServer
-* **Open index in browser:** http://localhost:8000/
-
-Renders 2016-2017 Warriors Playoff Statistics in d3 bar chart
+Interactive d3 visualiation detailing 2016-2017 Warriors Playoff Statistics
 
 Time spent: 20 hours spent in total
+
+## Setup
+
+* **Use Integrated Terminal to start HTTP server:** python -m SimpleHTTPServer
+* **Open index in browser:** http://localhost:8000/
 
 ## User Stories
 
