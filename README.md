@@ -1,7 +1,7 @@
 # Assignment 4 - Data Visualization User Interface for the Web 
-Interactive d3 visualiation detailing 2016-2017 Warriors Playoff Statistics
+Interactive d3 visualization detailing 2016-2017 Warriors Playoff Statistics
 
-Time spent: 20 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Setup
 
@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2017] [Shehba Shahab]
+    Copyright 2017 Shehba Shahab
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
