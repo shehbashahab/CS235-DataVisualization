@@ -1,7 +1,5 @@
 # Assignment 4 - Data Visualization User Interface for the Web 
-Interactive d3 visualization detailing 2016-2017 Warriors Playoff Statistics
-
-Time spent: 10 hours spent in total
+Interactive D3.js visualization of 2016-2017 Warriors Playoff Statistics
 
 ## Setup
 
@@ -15,8 +13,6 @@ The following **required** functionality is completed:
 * [x] Provide a user experience that enables the user to explore the data
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/shehbashahab/CS235-DataVisualization/blob/master/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
